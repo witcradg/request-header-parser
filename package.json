@@ -1,7 +1,7 @@
 {
-  "name": "timestamp",
+  "name": "request-header-parser",
   "version": "1.0.0",
-  "description": "'",
+  "description": "FCC Microservice project",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
@@ -14,10 +14,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/witcradg/timestamp.git"
+    "url": "git+https://github.com/witcradg/request-header-parser.git"
   },
   "bugs": {
-    "url": "https://github.com/witcradg/timestamp/issues"
+    "url": "https://github.com/witcradg/request-header-parser/issues"
   },
-  "homepage": "https://github.com/witcradg/timestamp#readme"
+  "homepage": "https://github.com/witcradg/request-header-parser#readme"
 }
